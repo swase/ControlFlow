@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{FCC43673-D9CE-4FA3-B7F4-251EFC14E56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowUnitTest", "ControlFlowUnitTest\ControlFlowUnitTest.csproj", "{633C52A0-98D5-4648-BB07-94BA6005BE5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC43673-D9CE-4FA3-B7F4-251EFC14E56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC43673-D9CE-4FA3-B7F4-251EFC14E56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC43673-D9CE-4FA3-B7F4-251EFC14E56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC43673-D9CE-4FA3-B7F4-251EFC14E56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633C52A0-98D5-4648-BB07-94BA6005BE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633C52A0-98D5-4648-BB07-94BA6005BE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633C52A0-98D5-4648-BB07-94BA6005BE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633C52A0-98D5-4648-BB07-94BA6005BE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F96EDF9-B95F-42A9-929A-A30A84A7B96D}
+	EndGlobalSection
+EndGlobal
